@@ -396,15 +396,14 @@ Este projeto foi desenvolvido como trabalho acadêmico para a disciplina de Sist
 
 ### Autores
 
-[Adicione os nomes dos autores aqui]
+Francisco Ricardo Teles Cavalcante Filho
 
 ---
 
 ## Link do Repositório GitHub
 
-🔗 **[Link do Repositório GitHub](https://github.com/seu-usuario/simulador-sistema-arquivos)**
+🔗 **[Link do Repositório GitHub](https://github.com/RicardoTelesC/trabalhodiretoriosSO)**
 
-*Nota: Atualize este link com o endereço real do seu repositório no GitHub.*
 
 ---
 
@@ -420,7 +419,4 @@ Este simulador permite entender como funciona a organização de arquivos e dire
 
 ---
 
-**Desenvolvido para a disciplina de Sistemas Operacionais**
-
-*Última atualização: 2024*
 
